@@ -1,0 +1,1 @@
+$seed = $_GET['seed'];mt_srand($seed);$randomNumber = mt_rand();

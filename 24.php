@@ -1,0 +1,1 @@
+$password = $_POST['password'];$hashedPassword = md5($password);

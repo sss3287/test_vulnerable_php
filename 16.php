@@ -1,0 +1,1 @@
+if $_SESSION['role'] == 'admin': # Perform admin-specific actions

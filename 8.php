@@ -1,0 +1,1 @@
+$filePath = $_GET['file'];readfile("/var/www/uploads/" . $filePath);

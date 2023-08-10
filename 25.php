@@ -1,0 +1,1 @@
+$input = $_POST['data'];$encryptedData = md5($input);

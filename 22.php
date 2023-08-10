@@ -1,0 +1,1 @@
+$token = mt_rand();

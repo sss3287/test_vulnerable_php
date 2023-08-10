@@ -1,0 +1,1 @@
+$filename = $_GET['filename'];$output = shell_exec("cat " . $filename);
